@@ -1,3 +1,7 @@
 eggs
 margarine
 milk
++aata
++dallay
++gee
++tea
