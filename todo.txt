@@ -1,0 +1,8 @@
+Simple and easy-to-use interface
+Add new to-dos
+Edit existing to-dos
+Search functionality by context, project or date
+Filtering with context, projects and date
+One-click filter reset
+Filter by completed tasks
+Export
