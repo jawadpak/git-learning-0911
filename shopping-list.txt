@@ -5,3 +5,6 @@ milk
 +dallay
 +gee
 +tea
+salsa
+onion
+potato
