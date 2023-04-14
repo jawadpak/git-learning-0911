@@ -10,5 +10,4 @@ onion
 potato
 add new veitable
 add some new value
-rebase commit waooo
 second rebase
