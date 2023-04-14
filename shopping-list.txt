@@ -1,13 +1,15 @@
-eggs
-margarine
-milk
+13 eggs
+dfs
+margarine dfds
+ltr milk
 +aata
 +dallay
 +gee
 +tea
 salsa
 onion
-potato
+kg potato
 add new veitable
 add some new value
 second rebase
+Carrots
