@@ -8,5 +8,3 @@ milk
 salsa
 onion
 potato
-add new veitable
-New code for check merged branch 
