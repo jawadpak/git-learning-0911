@@ -8,3 +8,4 @@ milk
 salsa
 onion
 potato
+add new veitable
