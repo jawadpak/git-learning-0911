@@ -9,9 +9,4 @@ ltr milk
 salsa
 onion
 kg potato
-add new veitable
-add some new value
-second rebase
-Carrots
 --------
-
