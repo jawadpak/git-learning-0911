@@ -14,4 +14,7 @@ add some new value
 second rebase
 Carrots
 --------
-yeh unatGE HONI CHAIEE
+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
+remote: Support for password authentication was removed on August 13, 2021.
+
+git remote set-url origin https://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@github.com/jawadpak/git-learning-0911
